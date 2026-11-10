@@ -1,0 +1,11 @@
+{
+    "name": "Alan Turing",
+    "age": 42,
+    "city": "London, UK",
+    "interests": [
+        "Mathematics",
+        "Logic",
+        "Computer Science"
+    ],
+    "is_student": false
+}
